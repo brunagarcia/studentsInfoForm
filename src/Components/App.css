@@ -1,0 +1,49 @@
+body{
+    font-family: Helvetica, sans-serif;
+  }
+
+img.icons{
+  width: 20px;
+}
+
+div .MuiFormControl-root-1{
+  align-self: center;
+  width: 60%;
+}
+
+.MuiButtonBase-root-59.MuiButton-root-37.MuiButton-textPrimary-39.MuiButton-flat-41.MuiButton-flatPrimary-42.MuiButton-outlined-44{
+  margin-top: 20px;
+  width: 120px;
+  align-self: center;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  padding: 10px;
+  animation: App-logo-spin infinite 20s linear;
+  height: 50px;
+}
+
+.App-header {
+  background-color: #1358DB;
+  width: 100%;
+  height: 200px;
+  padding: 0px;
+  color: white;
+}
+
+.App-title {
+  font-family: 'Roboto', sans-serif;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
